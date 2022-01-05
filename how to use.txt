@@ -1,0 +1,4 @@
+1. unzip and cd to video folder in terminal
+2. run `python video_to_frame.py` to extract videos in frames
+
+All the frame are saved in 'save' folder
